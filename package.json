@@ -1,0 +1,29 @@
+{
+  "name": "nodetci",
+  "version": "1.0.0",
+  "description": "test it",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zketosis/NodeTCI.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "zb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zketosis/NodeTCI/issues"
+  },
+  "homepage": "https://github.com/zketosis/NodeTCI#readme"
+}
