@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
 });
 
 const server = app.listen(8080, () => {
-    console.log('App running on port 8080');
+    console.log('broken and wrong App running on port 8080');
 });
 
 module.exports = server;
