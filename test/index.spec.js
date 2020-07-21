@@ -3,6 +3,6 @@ const server = require('../index');
 
 describe('test', () => {
   it('should return a string', () => {
-    expect('q with travis').to.equal('q with travis');
+    expect('q to break with travis').to.equal('q with travis');
   });
 });
